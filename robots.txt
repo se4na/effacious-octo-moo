@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /index.html
+Disallow: /*/index.*
+
+Disallow: /a/*
+Disallow: /d/*
+Disallow: /categories/*
+Disallow: /tags/*
+
+User-agent: Megalodon
+Disallow: /
+
+Sitemap: https://xn--cckvf7b1692a.tk/sitemap.xml
